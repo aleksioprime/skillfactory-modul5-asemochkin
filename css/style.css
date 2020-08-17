@@ -1,0 +1,26 @@
+header {
+  margin-top: 10px;
+  margin-bottom: 15px;
+}
+
+h2 {
+  font-style: italic;
+}
+
+.inputs {
+  display: flex;
+  flex-direction: column;
+}
+
+.inputs > input {
+  margin-bottom: 10px;
+}
+
+.inputs > button {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.text {
+  margin-top: 30px;
+}
